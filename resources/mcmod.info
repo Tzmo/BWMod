@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BWMod",
+  "name": "Hypixel Bedwars Mod",
+  "description": "Grabs players bedwars stats from everyone in the lobby and sends them in chat.\n(set the \"Grab Stats\" keybind in the control settings)\n\n/SetAPIKey <API-Key> - (do \"/api new\" on hypixel.net to get your API Key)\n/GetAPIKey - to see what your key is set to\n\nExample: \n[20*] Tzmo | 12.12 FKDR | 3 WS | 4.15 WLR | 812 Finals | 245 Wins | 59 Losses\n\n(This caches players stats to save on API requests and clears after 1m30s of not checking)\n(Hypixel's API rate limit is set to 120 requests per minute so dont spam it too much, you can use it in the main lobbies but wouldnt recommend in lobby 1)",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tzmo"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
